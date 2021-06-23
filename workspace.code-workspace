@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"oleg-shilo.cs-script",
+			"hookyqr.beautify",
+			"jmrog.vscode-nuget-package-manager",
+			"pkief.material-icon-theme",
+			"coenraads.bracket-pair-colorizer-2",
+			"aaron-bond.better-comments",
+			"coenraads.bracket-pair-colorizer",
+			"christian-kohler.path-intellisense",
+			"jchannon.csharpextensions"
+		]
+	}
+}
